@@ -8,4 +8,4 @@ Welcome to my Github page! I am Sovea, a programmer 👨🏻 from China.
 
 - 🐧 Working at Tencent
 - 💻 Full-Stack
-- 🔋 About to graduate
+- 🔋 Strive for progress
