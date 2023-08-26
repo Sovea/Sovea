@@ -6,7 +6,7 @@
 
 Welcome to my Github page! I am Sovea, a programmer 👨🏻 from China.
 
-- 🐧 Working at Tencent
+- 🕹️ Working at Alibaba, worked at Tencent
 - 💻 Full-Stack
 - 🔋 Strive for progress
 
